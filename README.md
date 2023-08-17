@@ -1,2 +1,2 @@
 # projeto02-divulgacao-livro
-Segundo Projeto 
+Segundo Projeto [DevMedia](https://www.devmedia.com.br/).
